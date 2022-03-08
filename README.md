@@ -1,7 +1,7 @@
 <h1>Desafio 01 - Conceitos React</h1>
 
 <p align="center">
-<image src=".github/cover-reactjs.png"/></br>
+<image src="public/cover-reactjs.png"/></br>
 
 </p>
 
